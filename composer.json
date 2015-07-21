@@ -14,5 +14,10 @@
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "1.5.*"
-   }
+   },
+   "extra": {
+        "installer-paths": {
+            "public/forums/": ["dimassrio/vanilla", "type:laravel-library"]
+        }
+    }
 }
