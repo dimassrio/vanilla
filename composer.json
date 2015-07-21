@@ -1,7 +1,7 @@
 {
     "name": "dimassrio/vanilla",
     "description": "Vanilla is a powerfully simple discussion forum you can easily customize to make as unique as your community.",
-    "type":"laravel-library"
+    "type":"laravel-library",
     "license": "GPLv2",
     "authors": [
         {
